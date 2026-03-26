@@ -578,4 +578,4 @@ if __name__ == "__main__":
 
     prs = build_presentation()
     prs.save(out_path)
-    print(f"Saved {len(prs.slides)} slides -> {out_path}")
+    print(f"Saved {len(prs.slides)} slides → {out_path}")
